@@ -2,7 +2,7 @@
 
 My name's Alexandra Udo. 
 
-I'm a dev Frontend. I’m currently learning and creating projects with:
+I'm a dev Frontend student. I’m currently learning and creating projects with:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
