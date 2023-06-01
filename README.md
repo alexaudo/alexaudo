@@ -23,13 +23,17 @@ I'm a dev Frontend student. I’m currently learning and creating projects with:
 <br>
 </p>
 
-### Languages and Tools:
+<p align="left">
+ <br />
+ Languages and Tools:
+ </p>
+<br />
 
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo"/>
-<br>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react-logo"/>
- 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+
+<br />
 
 [![Udo's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexaudo)](https://github.com/anuraghazra/github-readme-stats)
 
