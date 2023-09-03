@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, 👋
 
-My name's Alexandra Udo. 
+I'm Alexandra. 
 
 I'm a dev Frontend student. I’m currently learning and creating projects with:
 <br>
